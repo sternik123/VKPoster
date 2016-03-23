@@ -1,0 +1,21 @@
+{
+  "name": "vk-poster",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Create post for vk.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sternik123/VKPoster.git"
+  },
+  "author": "Alexandr Kutepov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sternik123/VKPoster/issues"
+  },
+  "homepage": "https://github.com/sternik123/VKPoster#readme"
+}
